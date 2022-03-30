@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6eda1e-d565-441e-a44a-f446734f75db" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio16/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio20/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio21/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio22/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio23/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo2/Ejercicio9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio9/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2723NWT9a4AXpHgfLWjLjaGwI9f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6eda1e-d565-441e-a44a-f446734f75db" name="Changes" comment="" />
+      <created>1648504315793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648504315793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
