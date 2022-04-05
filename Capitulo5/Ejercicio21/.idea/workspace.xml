@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b4d826-df94-414e-9d31-24550cf68e4d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio10/Ejercicio10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio11/Ejercicio11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio12/Ejercicio12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio13/Ejercicio13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio14/Ejercicio14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio15/Ejercicio15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio16/Ejercicio16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio16/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio17/Ejercicio17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio18/Ejercicio18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio19/Ejercicio19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio2/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio20/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio20/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio20/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio20/Ejercicio20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio20/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ejercicio21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio22/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3/Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio4/Ejercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio5/Ejercicio5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio6/Ejercicio6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio7/Ejercicio7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio8/Ejercicio8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio9/Ejercicio9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ejercicio9/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27LZoDx5yZZNv7EjlRj9FNW0yTQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Ejercicio21" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b4d826-df94-414e-9d31-24550cf68e4d" name="Changes" comment="" />
+      <created>1649101501227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649101501227</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
