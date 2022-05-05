@@ -2,9 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309af1bf-d423-4a40-a987-65230ab4a445" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Capitulo4/Ejercicio1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Capitulo4/Ejercicio2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Capitulo4/Ejercicio3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio38/Ejercicio38.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio38/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio39/Ejercicio39.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio39/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio40/Ejercicio40.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio40/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio41/Ejercicio41.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio41/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio43/Ejercicio43.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio43/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio44/Ejercicio44.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio44/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio45/Ejercicio45.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio45/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio46/Ejercicio46.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio46/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio47/Ejercicio47.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio47/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio48/Ejercicio48.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio48/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio49/Ejercicio49.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio49/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio50/Ejercicio50.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio50/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio51/Ejercicio51.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo5/Ejercicio51/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio1/Ejercicio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio10/Ejercicio10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio11/Ejercicio11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio12/Ejercicio12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio13/Ejercicio13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio14/Ejercicio14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio15/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio15/Ejercicio15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio16/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio17/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio2/Ejercicio2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio3/Ejercicio3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio4/Ejercicio4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio5/Ejercicio5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio6/Ejercicio6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio7/Ejercicio7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio8/Ejercicio8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio9/Ejercicio9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capitulo6/Ejercicio9/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +94,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Capitulo3/Ejercicio19" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
